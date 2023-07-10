@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cp tail -n 1 iacta 
+echo tee -a | tail -n 1 iacta 
